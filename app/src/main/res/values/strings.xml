@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EditTextValidInput</string>
+    <string name="special_code">Special Code</string>
+    <string name="special_code_hint">e.g. 24-27-21</string>
+</resources>
